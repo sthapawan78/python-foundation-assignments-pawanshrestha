@@ -34,15 +34,3 @@ Initially i found difficulty in understanding the problem given and to submit th
 At 1st i took help from chatgpt but later on after understanding i do exercise by own.
 
 
----
-
-## 5. Code structure
-
-Each Python file should include:
-
-```python
-"""
-Exercise: Sales Summary
-Student: Your Name
-Day: 1
-"""
