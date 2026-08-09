@@ -1,3 +1,9 @@
+"""
+Exercise: Sales Summary
+Student: Pawan Shrestha
+Day: 1
+"""
+#Input Values
 product_name = "Wireless Mouse"
 unit_price = 1500
 quantity_sold = 12

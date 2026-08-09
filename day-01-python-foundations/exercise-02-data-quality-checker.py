@@ -1,3 +1,9 @@
+"""
+Exercise: Data Quality Checker
+Student: Pawan Shrestha
+Day: 1
+"""
+#Input Values
 total_rows = 2000
 missing_rows = 120
 duplicate_rows = 30

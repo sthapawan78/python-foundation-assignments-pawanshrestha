@@ -1,3 +1,9 @@
+"""
+Exercise: Pipleine Health
+Student: Pawan Shrestha
+Day: 1
+"""
+#Input Values
 rows_loaded = 9900
 rows_failed = 100
 runtime_minutes = 30
@@ -14,6 +20,6 @@ elif failure_rate > 2:
     status = "Warning"
 else:
     status = "Warning"
-
+#Output
 print("Failure Rate:", failure_rate, "%")
 print("Pipeline Status:", status)

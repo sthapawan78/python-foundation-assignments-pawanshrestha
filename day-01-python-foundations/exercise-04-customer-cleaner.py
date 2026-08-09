@@ -1,3 +1,9 @@
+"""
+Exercise: Customer Cleaner
+Student: Pawan Shrestha
+Day: 1
+"""
+#Input Values
 raw_name = "  pAwAN SHREsthA "
 raw_city = "DAmak"
 raw_age = "23"

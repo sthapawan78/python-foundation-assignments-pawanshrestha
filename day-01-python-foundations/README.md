@@ -23,3 +23,25 @@ Run each file using:
 
 ```bash
 python exercise-01-sales-summary.py
+```
+What I Learned
+I learned basic python foundations.
+
+
+Challenges Faced
+Initially i found difficulty in understanding the problem given and to submit the assignments.
+At 1st i took help from chatgpt but later on after understanding i do exercise by own.
+
+
+---
+
+## 5. Code structure
+
+Each Python file should include:
+
+```python
+"""
+Exercise: Sales Summary
+Student: Your Name
+Day: 1
+"""
